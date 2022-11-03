@@ -1,1 +1,9 @@
-<h1>Sistema de Cadastro de Jogos</h1>
+# Simstema de cadastro de jogos
+
+>Status do projeto: Em desenvolvimento 
+
+Para rodar esse projeto na máquina, por favor digite:
+
+```
+node app.js
+```
